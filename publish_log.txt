@@ -996,3 +996,9 @@ warning: in the working copy of 'publish_log.txt', LF will be replaced by CRLF t
 To https://github.com/churchgary/lbrfc-live-scores.git
    3e1d204..5346e26  main -> main
 ==== 29/06/2026 19:54:51.20 ==== 
+warning: in the working copy of 'publish_log.txt', LF will be replaced by CRLF the next time Git touches it
+[main 696e571] Auto update live scores
+ 3 files changed, 8 insertions(+), 2 deletions(-)
+To https://github.com/churchgary/lbrfc-live-scores.git
+   5346e26..696e571  main -> main
+==== 29/06/2026 20:07:46.40 ==== 
